@@ -35,6 +35,8 @@ Instagram OSINT tool for extracting public profile metadata.
 After installation, run the tool from your terminal:
 
 ```sh
+instaosint
+OR
 python -m instaosint.main <username> [OPTIONS]
 ```
 
